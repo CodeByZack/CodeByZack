@@ -10,6 +10,7 @@
 ![](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=ffffff&color=E44D26)
 ![](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&logoColor=ffffff&color=25A1E1)
 ![](https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=ffffff&color=066d89)
+![](https://img.shields.io/badge/Vue-informational?style=flat-square&logo=react&logoColor=ffffff&color=066d89)
 ![](https://img.shields.io/badge/Next.JS-informational?style=flat-square&logo=next.js&logoColor=ffffff&color=000000)
 ![](https://img.shields.io/badge/Webpack-informational?style=flat-square&logo=webpack&logoColor=ffffff&color=1c78c0)
 ![](https://img.shields.io/badge/Java-informational?style=flat-square&logo=c-sharp&logoColor=8993be&color=2B2E3A)
