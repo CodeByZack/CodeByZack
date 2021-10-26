@@ -1,6 +1,6 @@
-### 哈喽，朋友！
+### 哈喽！
 
-我是**董凯**，现在是一名前端开发，来自中国，现居成都。
+这里是一名来自成都的前端开发...
 
 ### 技术 & 工具
 
@@ -10,10 +10,10 @@
 ![](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=ffffff&color=E44D26)
 ![](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&logoColor=ffffff&color=25A1E1)
 ![](https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=ffffff&color=066d89)
-![](https://img.shields.io/badge/Vue-informational?style=flat-square&logo=react&logoColor=ffffff&color=066d89)
+![](https://img.shields.io/badge/Vue-informational?style=flat-square&logo=vue&logoColor=ffffff&color=066d89)
 ![](https://img.shields.io/badge/Next.JS-informational?style=flat-square&logo=next.js&logoColor=ffffff&color=000000)
 ![](https://img.shields.io/badge/Webpack-informational?style=flat-square&logo=webpack&logoColor=ffffff&color=1c78c0)
-![](https://img.shields.io/badge/Java-informational?style=flat-square&logo=c-sharp&logoColor=8993be&color=2B2E3A)
+![](https://img.shields.io/badge/Java-informational?style=flat-square&logo=java&logoColor=8993be&color=2B2E3A)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=ffffff&color=007D7D)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=ffffff&color=3FA037)
 ![](https://img.shields.io/badge/VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=007acc)
