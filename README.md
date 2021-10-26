@@ -1,7 +1,5 @@
 ### 哈喽，朋友！
 
-My name is Vitalij and i'm a frontend developer. I'm from Russia, living in Irkutsk.
-
 我是**空山**，现在是一名前端开发，来自中国，现居成都。
 
 ### 技术 & 工具
