@@ -2,6 +2,11 @@
 
 这里是一名来自成都的前端开发...
 
+### 好玩的项目
+
+1. [风影院](https://movie.zackdk.top/)
+2. [小词导航](https://xclinks.com/)
+
 ### 技术 & 工具
 
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)
