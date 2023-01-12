@@ -4,7 +4,7 @@
 
 ### 好玩的项目
 
-1. [风影院](https://movie.zackdk.top/)
+1. [风影院](https://movie.zackdk.com/)
 2. [小词导航](https://xclinks.com/)
 
 ### 技术 & 工具
