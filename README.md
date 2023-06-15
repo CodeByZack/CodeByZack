@@ -1,11 +1,14 @@
 ### 哈喽！
 
-这里是一名来自成都的前端开发...
+Here is a front-end developer from Chengdu... 
 
-### 好玩的项目
+Looking for job opportunities...
+
+### 个人项目
 
 1. [风影院](https://movie.zackdk.com/)
 2. [小词导航](https://xclinks.com/)
+2. [TypeScript 翻译文章](https://typelevel-typescript.zackdk.com/)
 
 ### 技术 & 工具
 
