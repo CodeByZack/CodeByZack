@@ -6,8 +6,7 @@ Looking for job opportunities...
 
 ### 个人项目
 
-1. [风影院](https://movie.zackdk.com/)
-2. [小词导航](https://xclinks.com/)
+1. [Local share](https://share.zackdk.com/)
 2. [TypeScript 翻译文章](https://typelevel-typescript.zackdk.com/)
 
 ### 技术 & 工具
