@@ -7,6 +7,7 @@ Looking for job opportunities...
 ### 个人项目
 
 1. [Local share](https://share.zackdk.com/)
+1. [ZTools](https://marketplace.visualstudio.com/items?itemName=codebyzack.mytools-zack)
 2. [TypeScript 翻译文章](https://typelevel-typescript.zackdk.com/)
 
 ### 技术 & 工具
